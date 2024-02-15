@@ -13,7 +13,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Вывод сrickets каждый кадр
+        // Display crickets every cadre
         print("crickets");
     }
 }
